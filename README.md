@@ -1,5 +1,5 @@
 # MindSpore-StarGAN
-StarGAN-MindSpore: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation in MindSpore
+StarGAN-MindSpore: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation in MindSpore.   
 This repository provides a MindSpore-based implementation of StarGAN, a cutting-edge Generative Adversarial Network (GAN) designed for multi-domain image-to-image translation. The repository features:
 
 :zap: Highly Optimized: Leverage the efficiency and performance of MindSpore.
